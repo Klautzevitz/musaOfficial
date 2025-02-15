@@ -1,28 +1,27 @@
-# 👨‍💻 klautzevitz
+# klautzevitz🌹
 
-![Cyberpunk Banner](https://source.unsplash.com/1600x400/?hacker,technology)
+![Cybersecurity Banner](https://source.unsplash.com/1600x400/?cybersecurity,hacking)
 
-## 🛠️ Cybersecurity Enthusiast | Pentester | Programmer
+## Security Specialist | Security Researcher | Exploit Developer
 
-- 🕵️ Passionate about ethical hacking & pentesting
-- 🖥️ Exploring cybersecurity and secure coding
-- 🔐 Learning new exploits and securing systems
-- 💡 Always up for a CTF challenge
+- Threat analysis & penetration testing
+- Red team operations
+- Reverse engineering & exploit development
+- Network intrusion & OSINT
 
-## 🔧 Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![klautzevitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=klautzevitz&show_icons=true&theme=radical)
+![klautzevitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=klautzevitz&show_icons=true&theme=dark)
 
-## ⚡ Fun Fact
-"The quieter you become, the more you are able to hear."
-
+## Silence is Power
 
 
 
