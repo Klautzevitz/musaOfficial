@@ -5,7 +5,7 @@
 ## Security Specialist | Security Researcher | Exploit Developer
 
 - Threat analysis & penetration testing
-- Red team operations
+- Red & Blue team operations
 - Reverse engineering & exploit development
 - Network intrusion & OSINT
 
