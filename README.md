@@ -7,10 +7,11 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: black;
+            background-color: black;
             color: #00ff00;
             text-align: center;
             padding: 50px;
+            margin: 0;
         }
         .container {
             max-width: 800px;
@@ -22,9 +23,11 @@
         }
         h1 {
             font-size: 2.5em;
+            margin-bottom: 10px;
         }
         p {
             font-size: 1.2em;
+            margin: 5px 0;
         }
         .glitch {
             font-size: 2em;
@@ -38,6 +41,7 @@
             content: attr(data-text);
             position: absolute;
             left: 2px;
+            color: #ff0000;
             text-shadow: -2px 0 red;
             clip: rect(0, 900px, 0, 0);
             animation: glitch 0.8s infinite linear alternate-reverse;
@@ -56,6 +60,7 @@
     </div>
 </body>
 </html>
+
 
 
 ![](white_rose.gif)
