@@ -21,7 +21,7 @@
 ![klautzevitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=klautzevitz&show_icons=true&theme=radical)
 
 ## ⚡ Fun Fact
-💀 "The quieter you become, the more you are able to hear."
+"The quieter you become, the more you are able to hear."
 
 
 
