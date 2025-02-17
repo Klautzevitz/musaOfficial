@@ -1,5 +1,7 @@
 # klautzevitz🌹
 
+## **Consume.**: [Click here to listen!]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=OQKN1Aqe69k))
+
 ## Security Specialist | Security Researcher | Exploit Developer
 
 - Threat analysis & penetration testing
