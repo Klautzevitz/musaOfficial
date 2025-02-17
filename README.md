@@ -1,7 +1,5 @@
 # klautzevitz🌹
 
-![](traveler.gif)
-
 ## Security Specialist | Security Researcher | Exploit Developer
 
 - Threat analysis & penetration testing
